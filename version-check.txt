@@ -1,1 +1,17 @@
-1
+[
+  {
+    "index": 1,
+    "version": "0.1dev",
+    "description": "initial version"
+  },
+  {
+    "index": 2,
+    "version": "0.1dev",
+    "description": "blah blah blah, this is just a test"
+  },
+  {
+    "index": 4,
+    "version": "1.0",
+    "description": "i finally got this shit show running"
+  }
+]
